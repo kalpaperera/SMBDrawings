@@ -1,2 +1,2 @@
-# Sampath-Bank-Drawings
+# SMB-Drawings
 System Diagrams
